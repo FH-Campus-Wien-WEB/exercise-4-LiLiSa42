@@ -1,34 +1,181 @@
-@import url(layout.css);
+@import url(base.css);
 
+h1, footer p, header h1 {
+  font-size: 200%;
+  margin: 8px 0px;
+  color: blueviolet;
+}
+
+footer p {
+  font-size: 1rem;
+}
+
+#userGreeting {
+  color: blueviolet;
+}
+
+/* Seite bis zu viewpoint begrenzen */
+html, body {
+  height: 100vh;
+  margin: 0;
+}
+
+/* nicht benötigten Platz von body entfernen */
 body {
-  background-image: url('images/background.jpg');
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #d8f7d8;
+}
+
+button {
+  background-color: #d5b3ff;
+  color: #1f003f;
+  border: 1px solid #a87bff;
+  border-radius: 8px;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #e7c8ff;
+}
+
+/* nav header + list zentrieren */
+nav {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* navigations-buttons sollen volle Breite haben */
+nav button {
+  width: 100%;
+}
+
+/* nicht benötigten Platz + Aufzählung weg */
+ul {
+  padding: 0px;
+  margin: 16px;
+  list-style-type: none;
+}
+
+/* Task 2.1. Lay out the childs of the 'body' using Grid Template Areas. */
+@media (min-width: 768px) {
+  body {
+    display: grid;
+    grid-template-columns: 200px 1fr;
+    grid-template-rows: auto 1fr auto;
+    grid-template-areas: /*definiert visuelles Layout in Rasterform inkl fixem header & footer*/
+      "h h"
+      "n m"
+      "f f";
+  }
+  
+  /*HTML Elemente den oben definierten Grid-Areas zuweisen*/
+  header {
+    grid-area: h;
+  }
+  
+  nav {
+    grid-area: n;
+  }
+  
+  main {
+    grid-area: m;
+    overflow-y: auto; /*Damit footer sichtbar bleibt, wenn Main zu groß für verfügbaren Platz ist*/
+  }
+  
+  footer {
+    grid-area: f;
+  }
+}
+
+/* Mobile-first stack layout (default) */
+@media (max-width: 767px) {
+  body {
+    flex-direction: column;
+  }
+  
+  header {
+    order: 1;
+  }
+  
+  nav {
+    order: 2;
+  }
+  
+  main {
+    order: 3;
+    flex: 1;
+    overflow-y: auto;
+  }
+  
+  footer {
+    order: 4;
+  }
+}
+
+/* Task 3.1. Make the header element a flex container and center its children
+   vertically and horizontally.
+ */
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 16px;
+}
+
+/* Login Button styling */
+#loginButton {
+  background-color: #d5b3ff;
+}
+
+/* Task 3.2. Make the list items of the unordered list in the nav element a flex container, 
+   use column direction and center the child items
+ */
+nav ul {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  width: 100%;
+  gap: 8px;
+}
+
+/* Task 3.3. Make the main element a Flexbox container */
+main {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  padding: 16px;
+  align-content: flex-start;
+}
+
+main article {
+  flex: 1 1 250px; /*Basisbreite 250 px, wächst + schrumpft flexibel*/
+}
+
+/* Task 3.4. Make the footer's ul a Flexbox container */
+footer ul {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* From here on styling from exercise 1 */
+img {
+  border-radius: 12px;
 }
 
 article {
-  background-color: rgba(211, 211, 211, 0.9);
+  background-color: paleturquoise;
   border-radius: 16px;
   padding: 16px;
   width: 384px;
   margin: 8px;
 }
 
-article button {
-  margin: 0px 2px;
-}
-
-main {
-  display: flex;
-  flex-wrap: wrap;
-}
-
-header {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+a {
+  color: blueviolet;
 }
 
 span {
@@ -39,6 +186,6 @@ span {
   padding: 4px 8px;
   border: solid black 1px;
   border-radius: 6px;
-  background-color: darkgray;
+  background-color: lightpink;
   font-weight: bold;
 }

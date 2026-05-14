@@ -1,84 +1,762 @@
 {
   "joe": {
-    "tt0399295": {
-      "imdbID": "tt0399295",
-      "Title": "Lord of War",
-      "Released": "2005-09-15",
-      "Runtime": 122,
+    "tt0119698": {
+      "imdbID": "tt0119698",
+      "Title": "Princess Mononoke",
+      "Released": "12 Jul 1997",
+      "Runtime": 133,
       "Genres": [
+        "Animation",
+        "Adventure",
+        "Fantasy"
+      ],
+      "Directors": [
+        "Hayao Miyazaki"
+      ],
+      "Writers": [
+        "Hayao Miyazaki"
+      ],
+      "Actors": [
+        "Yôji Matsuda",
+        "Yuriko Ishida",
+        "Yûko Tanaka"
+      ],
+      "Plot": "While protecting his village from rampaging boar-god/demon, a confident young warrior, Ashitaka, is stricken by a deadly curse. To save his life, he must journey to the forests of the west. Once there, he's embroiled in a fierce campaign that humans were waging on the forest. The ambitious Lady Eboshi and her loyal clan use their guns against the gods of the forest and a brave young woman, Princess Mononoke, who was raised by a wolf-god. Ashitaka sees the good in both sides and tries to stem the flood of blood. This is met by animosity by both sides as they each see him as supporting the enemy.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjAzODViNGEtMjBkYi00N2U5LWJjNjAtY2U0MGJhZTEwOTU0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Metascore": 78,
+      "imdbRating": 8.3
+    },
+    "tt14205554": {
+      "imdbID": "tt14205554",
+      "Title": "KPop Demon Hunters",
+      "Released": "20 Jun 2025",
+      "Runtime": 95,
+      "Genres": [
+        "Animation",
+        "Action",
+        "Adventure"
+      ],
+      "Directors": [
+        "Chris Appelhans",
+        "Maggie Kang"
+      ],
+      "Writers": [
+        "Danya Jimenez",
+        "Hannah McMechan",
+        "Maggie Kang"
+      ],
+      "Actors": [
+        "Arden Cho",
+        "May Hong",
+        "Ji-young Yoo"
+      ],
+      "Plot": "A world-renowned K-Pop girl group balances their lives in the spotlight with their secret identities as bad-ass demon hunters, set against a colorful backdrop of fashion, food, style, and the most popular music movement of the current generation.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTBiYWJlMjQtOTIyMy00NTY4LWFhOWItOWZhNzc3NGMyMjc2XkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Metascore": 77,
+      "imdbRating": 7.4
+    },
+    "tt0121164": {
+      "imdbID": "tt0121164",
+      "Title": "Corpse Bride",
+      "Released": "23 Sep 2005",
+      "Runtime": 77,
+      "Genres": [
+        "Animation",
+        "Comedy",
+        "Drama"
+      ],
+      "Directors": [
+        "Tim Burton",
+        "Mike Johnson"
+      ],
+      "Writers": [
+        "Tim Burton",
+        "Carlos Grangel",
+        "John August"
+      ],
+      "Actors": [
+        "Johnny Depp",
+        "Helena Bonham Carter",
+        "Emily Watson"
+      ],
+      "Plot": "Set back in the late 1800s in a Victorian village, a man and woman by the names of Victor Van Dort and Victoria Everglot are betrothed because the Everglots need the money or else they'll be living on the streets and the Van Dorts want to be high in society. But when things go wrong at the wedding rehearsal, Victor goes into the woods to practice his vows. Just as soon as he gets them right, he finds himself married to Emily, the corpse bride. While Victoria waits on the other side, there's a rich newcomer that may take Victor's place. So two brides, one groom, who will Victor pick?",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTk1MTY1NjU4MF5BMl5BanBnXkFtZTcwNjIzMTEzMw@@._V1_SX300.jpg",
+      "Metascore": 83,
+      "imdbRating": 7.4
+    },
+    "tt0245429": {
+      "imdbID": "tt0245429",
+      "Title": "Spirited Away",
+      "Released": "28 Mar 2003",
+      "Runtime": 124,
+      "Genres": [
+        "Animation",
+        "Adventure",
+        "Family"
+      ],
+      "Directors": [
+        "Hayao Miyazaki"
+      ],
+      "Writers": [
+        "Hayao Miyazaki"
+      ],
+      "Actors": [
+        "Miyu Irino",
+        "Rumi Hiiragi",
+        "Mari Natsuki"
+      ],
+      "Plot": "The fanciful adventures of a ten-year-old girl named Chihiro, who discovers a secret world when she and her family get lost and venture through a hillside tunnel. When her parents undergo a mysterious transformation, Chihiro must fend for herself as she encounters strange spirits, assorted creatures and a grumpy sorceress who seeks to prevent her from returning to the human world.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTEyNmEwOWUtYzkyOC00ZTQ4LTllZmUtMjk0Y2YwOGUzYjRiXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Metascore": 96,
+      "imdbRating": 8.6
+    },
+    "tt0107688": {
+      "imdbID": "tt0107688",
+      "Title": "The Nightmare Before Christmas",
+      "Released": "29 Oct 1993",
+      "Runtime": 76,
+      "Genres": [
+        "Animation",
+        "Adventure",
+        "Family"
+      ],
+      "Directors": [
+        "Henry Selick"
+      ],
+      "Writers": [
+        "Caroline Thompson",
+        "Michael McDowell",
+        "Tim Burton"
+      ],
+      "Actors": [
+        "Danny Elfman",
+        "Chris Sarandon",
+        "Catherine O'Hara"
+      ],
+      "Plot": "Jack Skellington, the pumpkin king of Halloween Town, is bored with doing the same thing every year for Halloween. One day he stumbles into Christmas Town, and is so taken with the idea of Christmas that he tries to get the resident bats, ghouls, and goblins of Halloween Town to help him put on Christmas instead of Halloween -- but alas, they can't get it quite right.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNmYxOTAzZWYtOGI3Yi00ODc3LTk5ZjYtZTY0MzVkZTg3YmRiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Metascore": 82,
+      "imdbRating": 7.9
+    },
+    "tt1486185": {
+      "imdbID": "tt1486185",
+      "Title": "Red Riding Hood",
+      "Released": "11 Mar 2011",
+      "Runtime": 100,
+      "Genres": [
+        "Fantasy",
+        "Horror",
+        "Mystery"
+      ],
+      "Directors": [
+        "Catherine Hardwicke"
+      ],
+      "Writers": [
+        "David Leslie Johnson-McGoldrick"
+      ],
+      "Actors": [
+        "Amanda Seyfried",
+        "Lukas Haas",
+        "Gary Oldman"
+      ],
+      "Plot": "Valerie (Seyfried) is a beautiful young woman torn between two men. She is in love with a brooding outsider, Peter (Fernandez), but her parents have arranged for her to marry the wealthy Henry (Irons). Unwilling to lose each other, Valerie and Peter are planning to run away together when they learn that Valerie's older sister has been killed by the werewolf that prowls the dark forest surrounding their village. For years, the people have maintained an uneasy truce with the beast, offering the creature a monthly animal sacrifice. But under a blood red moon, the wolf has upped the stakes by taking a human life. Hungry for revenge, the people call on famed werewolf hunter, Father Solomon (Oldman), to help them kill the wolf. But Solomon's arrival brings unintended consequences as he warns that the wolf, who takes human form by day, could be any one of them. As the death toll rises with each moon, Valerie begins to suspect that the werewolf could be someone she loves. As panic grips the town, Valerie discovers that she has a unique connection to the beast--one that inexorably draws them together, making her both suspect...and bait.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTc4NjYyMzQ5MV5BMl5BanBnXkFtZTcwNjE5Mjc3NA@@._V1_SX300.jpg",
+      "Metascore": 29,
+      "imdbRating": 5.4
+    },
+    "tt0401855": {
+      "imdbID": "tt0401855",
+      "Title": "Underworld: Evolution",
+      "Released": "20 Jan 2006",
+      "Runtime": 106,
+      "Genres": [
+        "Action",
+        "Fantasy",
+        "Thriller"
+      ],
+      "Directors": [
+        "Len Wiseman"
+      ],
+      "Writers": [
+        "Danny McBride",
+        "Len Wiseman",
+        "Kevin Grevioux"
+      ],
+      "Actors": [
+        "Kate Beckinsale",
+        "Scott Speedman",
+        "Bill Nighy"
+      ],
+      "Plot": "As the war between the vampires and the Lycans rages on, the beautiful vampire, Selene, a former member of the Death Dealers, and Michael, the werewolf hybrid, work together in an effort to unlock the secrets of their respective bloodlines. In this ancient feud between the two tribes, they try to unlock the secrets, in a modern tale of action, intrigue, and forbidden love, which takes them into the battle to end all wars, as the immortals must finally face their doom.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjEzNDY1OTQwOV5BMl5BanBnXkFtZTcwNjcxMTIzMw@@._V1_SX300.jpg",
+      "Metascore": 36,
+      "imdbRating": 6.7
+    },
+    "tt0320691": {
+      "imdbID": "tt0320691",
+      "Title": "Underworld",
+      "Released": "19 Sep 2003",
+      "Runtime": 121,
+      "Genres": [
+        "Action",
+        "Fantasy",
+        "Thriller"
+      ],
+      "Directors": [
+        "Len Wiseman"
+      ],
+      "Writers": [
+        "Kevin Grevioux",
+        "Len Wiseman",
+        "Danny McBride"
+      ],
+      "Actors": [
+        "Kate Beckinsale",
+        "Scott Speedman",
+        "Shane Brolly"
+      ],
+      "Plot": "Against the backdrop of an unseen centuries-old war between the sophisticated Vampire clan and the brutish clan of lycanthropes, the Lycans, the lethally alluring vampire assassin and member of the elite \"Death Dealers\" squad, Selene, has devoted her existence to eradicating the earth's scattered pockets of remaining werewolves. With the death of the Lycans' supreme overlord, Lucian, the vampires' victory seems near; however, when their arch-enemy takes a special interest in the seemingly harmless human doctor, Michael Corvin, Selene will unearth a long-standing conspiracy. Now, treason, deceit, and conflicting feelings stand in the way of truth, forcing Selene to break protocol for the sake of the vampire race. Can a forbidden relationship put in jeopardy her noble quest? Is this the beginning of a new era, and an entirely different war?",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWIwZjFkYjktZTI3My00YzhkLWI5NmUtZDYyMTg5ZWVmODZkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Metascore": 42,
+      "imdbRating": 7
+    },
+    "tt3717252": {
+      "imdbID": "tt3717252",
+      "Title": "Underworld: Blood Wars",
+      "Released": "06 Jan 2017",
+      "Runtime": 91,
+      "Genres": [
+        "Action",
         "Crime",
         "Drama"
       ],
       "Directors": [
-        "Andrew Niccol"
+        "Anna Foerster"
       ],
       "Writers": [
-        "Andrew Niccol"
+        "Cory Goodman",
+        "Kyle Ward",
+        "Kevin Grevioux"
       ],
       "Actors": [
-        "Nicolas Cage",
-        "Ethan Hawke",
-        "Jared Leto"
+        "Kate Beckinsale",
+        "Theo James",
+        "Tobias Menzies"
       ],
-      "Plot": "An arms dealer confronts the morality of his work as he is being chased by an INTERPOL Agent.",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BNThlY2NkYmMtNTFhNi00MzBiLWJmNzEtZjk5MzYwYWU2MjllXkEyXkFqcGc@._V1_SX300.jpg",
-      "Metascore": 62,
-      "imdbRating": 7.6
+      "Plot": "The next installment in the blockbuster franchise, UNDERWORLD: BLOOD WARS follows Vampire death dealer, Selene (Kate Beckinsale) as she fends off brutal attacks from both the Lycan clan and the Vampire faction that betrayed her. With her only allies, David (Theo James) and his father Thomas (Charles Dance), she must stop the eternal war between Lycans and Vampires, even if it means she has to make the ultimate sacrifice.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjI5Njk0NTIyNV5BMl5BanBnXkFtZTgwNjU4MjY5MDI@._V1_SX300.jpg",
+      "Metascore": 23,
+      "imdbRating": 5.8
     },
-    "tt0167260": {
-      "imdbID": "tt0167260",
-      "Title": "The Lord of the Rings: The Return of the King",
-      "Released": "2003-12-16",
-      "Runtime": 201,
+    "tt0156887": {
+      "imdbID": "tt0156887",
+      "Title": "Perfect Blue",
+      "Released": "28 Feb 1998",
+      "Runtime": 82,
       "Genres": [
-        "Adventure",
+        "Animation",
+        "Crime",
+        "Drama"
+      ],
+      "Directors": [
+        "Satoshi Kon"
+      ],
+      "Writers": [
+        "Sadayuki Murai",
+        "Yoshikazu Takeuchi",
+        "Satoshi Kon"
+      ],
+      "Actors": [
+        "Junko Iwao",
+        "Rica Matsumoto",
+        "Shinpachi Tsuji"
+      ],
+      "Plot": "Mima leaves the idol group CHAM, in order to pursue her dream as an actress. Mima climbs up the rocky road to success by performing as rape victims and posing nude for magazines, but is haunted by her reflections of the past.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzAwNDIzMzEtZDZkNC00ZDQ4LTk3ZDMtZjVhMTU2YzgzZTZiXkEyXkFqcGc@._V1_SX300.jpg",
+      "Metascore": 67,
+      "imdbRating": 8
+    },
+    "tt0851578": {
+      "imdbID": "tt0851578",
+      "Title": "Paprika",
+      "Released": "22 Jun 2007",
+      "Runtime": 90,
+      "Genres": [
+        "Animation",
         "Drama",
         "Fantasy"
       ],
       "Directors": [
-        "Peter Jackson"
+        "Satoshi Kon"
       ],
       "Writers": [
-        "J.R.R. Tolkien",
-        "Fran Walsh",
-        "Philippa Boyens"
+        "Yasutaka Tsutsui",
+        "Seishi Minakami",
+        "Satoshi Kon"
       ],
       "Actors": [
-        "Elijah Wood",
-        "Viggo Mortensen",
-        "Ian McKellen"
+        "Megumi Hayashibara",
+        "Tôru Emori",
+        "Katsunosuke Hori"
       ],
-      "Plot": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BMTZkMjBjNWMtZGI5OC00MGU0LTk4ZTItODg2NWM3NTVmNWQ4XkEyXkFqcGc@._V1_SX300.jpg",
-      "Metascore": 94,
-      "imdbRating": 9
+      "Plot": "Three scientists at the Foundation for Psychiatric Research fail to secure a device they've invented, the D.C. Mini, which allows people to record and watch their dreams. A thief uses the device to enter people's minds, when awake, and distract them with their own dreams and those of others. Chaos ensues. The trio - Chiba, Tokita, and Shima - assisted by a police inspector and by a sprite named Paprika must try to identify the thief as they ward off the thief's attacks on their own psyches. Dreams, reality, and the movies merge, while characters question the limits of science and the wisdom of Big Brother.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGJkYjkyMDUtM2U3ZC00NDM3LWI0MzItZjU5MmYwYjg2YmIwXkEyXkFqcGc@._V1_QL75_UX380_CR0,2,380,562_.jpg",
+      "Metascore": 81,
+      "imdbRating": 7.7
     },
-    "tt0057261": {
-      "imdbID": "tt0057261",
-      "Title": "Lord of the Flies",
-      "Released": "1963-08-12",
-      "Runtime": 92,
+    "tt0095327": {
+      "imdbID": "tt0095327",
+      "Title": "Grave of the Fireflies",
+      "Released": "26 Jul 1989",
+      "Runtime": 88,
       "Genres": [
-        "Adventure",
+        "Animation",
         "Drama",
-        "Thriller"
+        "War"
       ],
       "Directors": [
-        "Peter Brook"
+        "Isao Takahata"
       ],
       "Writers": [
-        "William Golding",
-        "Peter Brook"
+        "Akiyuki Nosaka",
+        "Isao Takahata"
       ],
       "Actors": [
-        "James Aubrey",
-        "Tom Chapin",
-        "Hugh Edwards"
+        "Tsutomu Tatsumi",
+        "Ayano Shiraishi",
+        "Akemi Yamaguchi"
       ],
-      "Plot": "Schoolboys marooned on a Pacific island create their own savage civilization.",
-      "Poster": "https://m.media-amazon.com/images/M/MV5BY2RiOTM0ZDgtNDRlMi00MDMzLWI1NDYtY2NjZDM4YTkwNWVlXkEyXkFqcGc@._V1_SX300.jpg",
-      "Metascore": 67,
+      "Plot": "The story of Seita and Setsuko, two young Japanese siblings, living in the declining days of World War II. When an American firebombing separates the two children from their parents, the two siblings must rely completely on one another while they struggle to fight for their survival.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTY5MmE2OGMtN2IxNC00MDY4LTkwMGEtZDUzOTYyNWE0ZTNjXkEyXkFqcGc@._V1_QL75_UX380_CR0,4,380,562_.jpg",
+      "Metascore": 94,
+      "imdbRating": 8.5
+    },
+    "tt0498443": {
+      "imdbID": "tt0498443",
+      "Title": "Paradise Kiss",
+      "Released": "13 Oct 2005",
+      "Runtime": 23,
+      "Genres": [
+        "Animation",
+        "Comedy",
+        "Drama"
+      ],
+      "Directors": [
+        "N/A"
+      ],
+      "Writers": [
+        "N/A"
+      ],
+      "Actors": [
+        "Johnny Yong Bosch",
+        "Vic Mignogna",
+        "Patrick Seitz"
+      ],
+      "Plot": "Top high-school student seeks some purpose in life. A group of fashion design students ask her to be the front model for their clothing label \"Paradise Kiss\". Although she finds them weird, she accepts and soon blossoms as a person.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2E1OGQ0NDEtMTUzMy00YzFkLTgwZjQtNjliNzI5NzlmMmQ0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Metascore": 0,
+      "imdbRating": 7.7
+    },
+    "tt0810705": {
+      "imdbID": "tt0810705",
+      "Title": "Nana",
+      "Released": "05 Apr 2006",
+      "Runtime": 1,
+      "Genres": [
+        "Animation",
+        "Comedy",
+        "Drama"
+      ],
+      "Directors": [
+        "N/A"
+      ],
+      "Writers": [
+        "N/A"
+      ],
+      "Actors": [
+        "Kaori",
+        "Romi Park",
+        "Brian Drummond"
+      ],
+      "Plot": "Two ostensibly opposite women, both named Nana, become roommates in Tokyo and grow inseparable. However, their relationship is jeopardized as the harsh realities of adult life take shape.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjRmOWJmMDgtYjBjMS00OTg1LWJmZTItZTY2MjJlODgxNmUwXkEyXkFqcGc@._V1_SX300.jpg",
+      "Metascore": 0,
+      "imdbRating": 8.5
+    },
+    "tt0112159": {
+      "imdbID": "tt0112159",
+      "Title": "Neon Genesis Evangelion",
+      "Released": "20 Aug 1997",
+      "Runtime": 24,
+      "Genres": [
+        "Animation",
+        "Action",
+        "Drama"
+      ],
+      "Directors": [
+        "N/A"
+      ],
+      "Writers": [
+        "Hideaki Anno"
+      ],
+      "Actors": [
+        "Megumi Ogata",
+        "Megumi Hayashibara",
+        "Kotono Mitsuishi"
+      ],
+      "Plot": "When the Angels start attacking the planet Earth in the year 2015, only a handful of 14-year-old EVA pilots are able to stop them. Young Shinji Ikari suddenly finds himself forced to pilot EVA-01, a giant organic mecha, designed and constructed by NERV, that is the only thing that can stop the Angels.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjZjZGI3ZDQtODNmZC00NjE0LTlmYTUtOTljMWI2YjNmMTQ0XkEyXkFqcGc@._V1_SX300.jpg",
+      "Metascore": 0,
+      "imdbRating": 8.5
+    },
+    "tt0081874": {
+      "imdbID": "tt0081874",
+      "Title": "The Hitch Hiker's Guide to the Galaxy",
+      "Released": "30 Oct 1982",
+      "Runtime": 1,
+      "Genres": [
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "Directors": [
+        "N/A"
+      ],
+      "Writers": [
+        "N/A"
+      ],
+      "Actors": [
+        "Simon Jones",
+        "David Dixon",
+        "Peter Jones"
+      ],
+      "Plot": "When the Earth is destroyed a Vogon Demolition Fleet to make way for a new hyperspace bypass, Arthur Dent joins his friend Ford Prefect (who turns out to be a researcher for an electronic reference guide called the Hitchhiker's Guide to the Galaxy) for a galactic voyage on which they meet Marvin, a depressed paranoid android, Zaphod Beeblebrox, the two-headed ex-President of the Galaxy, and a familiar girl, Trillian. Their journey takes them from the remains of Earth to Milliways, the Restaurant at the End of the Universe.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTI2OTMwNDU1NF5BMl5BanBnXkFtZTcwOTIyNzAzMQ@@._V1_SX300.jpg",
+      "Metascore": 0,
+      "imdbRating": 8
+    },
+    "tt0088763": {
+      "imdbID": "tt0088763",
+      "Title": "Back to the Future",
+      "Released": "03 Jul 1985",
+      "Runtime": 116,
+      "Genres": [
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "Directors": [
+        "Robert Zemeckis"
+      ],
+      "Writers": [
+        "Robert Zemeckis",
+        "Bob Gale"
+      ],
+      "Actors": [
+        "Michael J. Fox",
+        "Christopher Lloyd",
+        "Lea Thompson"
+      ],
+      "Plot": "Marty McFly, a typical American teenager of the Eighties, is accidentally sent back to 1955 in a plutonium-powered DeLorean \"time machine\" invented by a slightly mad scientist. During his often hysterical, always amazing trip back in time, Marty must make sure his teenage parents-to-be meet and fall in love to get back to the future.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmM3ZjE0NzctNjBiOC00MDZmLTgzMTUtNGVlOWFlOTNiZDJiXkEyXkFqcGc@._V1_QL75_UX380_CR0,14,380,562_.jpg",
+      "Metascore": 88,
+      "imdbRating": 8.5
+    },
+    "tt0096874": {
+      "imdbID": "tt0096874",
+      "Title": "Back to the Future Part II",
+      "Released": "22 Nov 1989",
+      "Runtime": 108,
+      "Genres": [
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "Directors": [
+        "Robert Zemeckis"
+      ],
+      "Writers": [
+        "Robert Zemeckis",
+        "Bob Gale"
+      ],
+      "Actors": [
+        "Michael J. Fox",
+        "Christopher Lloyd",
+        "Lea Thompson"
+      ],
+      "Plot": "Marty McFly has only just gotten back from the past, when he is once again picked up by Dr. Emmett Brown and sent through time to the future. Marty's job in the future is to pose as his own son to prevent him from being thrown in prison. Unfortunately, things get worse when the future changes the present.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTNlOTRmOTEtMTAyMi00NjFiLTk3NDMtNWI0YzA3ZTZlYjZiXkEyXkFqcGc@._V1_QL75_UX380_CR0,7,380,562_.jpg",
+      "Metascore": 57,
+      "imdbRating": 7.8
+    },
+    "tt0099088": {
+      "imdbID": "tt0099088",
+      "Title": "Back to the Future Part III",
+      "Released": "25 May 1990",
+      "Runtime": 118,
+      "Genres": [
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+      ],
+      "Directors": [
+        "Robert Zemeckis"
+      ],
+      "Writers": [
+        "Robert Zemeckis",
+        "Bob Gale"
+      ],
+      "Actors": [
+        "Michael J. Fox",
+        "Christopher Lloyd",
+        "Mary Steenburgen"
+      ],
+      "Plot": "In 1955, Marty McFly receives written word from his friend, Doctor Emmett Brown, as to where can be found the DeLorean time machine. However, an unfortunate discovery prompts Marty to go to his friend's aid. Using the time machine, Marty travels to the old west where his friend has run afoul of a gang of thugs and has fallen in love with a local schoolteacher. Using the technology from the time, Marty and Emmett devise one last chance to save the future.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTNkNzJmY2MtOGNjYi00NDJmLWIyZTQtNmFmMGQ5M2VlOTI0XkEyXkFqcGc@._V1_QL75_UY562_CR0,0,380,562_.jpg",
+      "Metascore": 55,
+      "imdbRating": 7.5
+    },
+    "tt0101272": {
+      "imdbID": "tt0101272",
+      "Title": "The Addams Family",
+      "Released": "22 Nov 1991",
+      "Runtime": 99,
+      "Genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "Directors": [
+        "Barry Sonnenfeld"
+      ],
+      "Writers": [
+        "Charles Addams",
+        "Caroline Thompson",
+        "Larry Wilson"
+      ],
+      "Actors": [
+        "Anjelica Huston",
+        "Raul Julia",
+        "Christopher Lloyd"
+      ],
+      "Plot": "The Addams Family steps out of Charles Addams' cartoons. They live with all of the trappings of the macabre (including a detached hand for a servant) and are quite wealthy. Added to this mix is a crooked accountant and his loan shark and a plot to slip the shark's son into the family as their long-lost Uncle Fester. Can the false Fester find his way into the vault before he is discovered?",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWY0MzVlNGEtYzM1MC00OTI4LWE3ZTQtNWJjYzk2Y2MyNjVkXkEyXkFqcGc@._V1_SX300.jpg",
+      "Metascore": 57,
+      "imdbRating": 7
+    },
+    "tt0106220": {
+      "imdbID": "tt0106220",
+      "Title": "Addams Family Values",
+      "Released": "19 Nov 1993",
+      "Runtime": 94,
+      "Genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "Directors": [
+        "Barry Sonnenfeld"
+      ],
+      "Writers": [
+        "Charles Addams",
+        "Paul Rudnick"
+      ],
+      "Actors": [
+        "Anjelica Huston",
+        "Raul Julia",
+        "Christopher Lloyd"
+      ],
+      "Plot": "When an adorable baby boy is added to the Addams household, Wednesday and Pugsley do not hate him, they just aren't necessarily excited about his existence. OK...yeah, they do hate him. So they plot to get rid of him one way or another. Meanwhile, their parents hire a nanny for him and she charms Fester, but has evil intentions for him. The Addamses must stop her, but how?",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYWY3Y2ZkYjktZWYxMC00ZmZmLTgxNjYtYmMwYmU5OWJjMThjXkEyXkFqcGc@._V1_SX300.jpg",
+      "Metascore": 61,
       "imdbRating": 6.9
+    },
+    "tt1131734": {
+      "imdbID": "tt1131734",
+      "Title": "Jennifer's Body",
+      "Released": "18 Sep 2009",
+      "Runtime": 102,
+      "Genres": [
+        "Comedy",
+        "Horror"
+      ],
+      "Directors": [
+        "Karyn Kusama"
+      ],
+      "Writers": [
+        "Diablo Cody"
+      ],
+      "Actors": [
+        "Megan Fox",
+        "Amanda Seyfried",
+        "Adam Brody"
+      ],
+      "Plot": "Nerdy, reserved bookworm Needy Lesnicki, and arrogant, conceited cheerleader Jennifer Check are best friends, though they share little in common. They share even less in common when Jennifer mysteriously gains an appetite for human blood after a disastrous fire at a local bar. As Needy's male classmates are steadily killed in gruesome attacks, the young girl must uncover the truth behind her friend's transformation and find a way to stop the bloodthirsty rampage before it reaches her own boyfriend Chip.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTMxNzYwMjc1Ml5BMl5BanBnXkFtZTcwNDI3MDE3Mg@@._V1_SX300.jpg",
+      "Metascore": 47,
+      "imdbRating": 5.6
+    },
+    "tt0088247": {
+      "imdbID": "tt0088247",
+      "Title": "The Terminator",
+      "Released": "26 Oct 1984",
+      "Runtime": 107,
+      "Genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "Directors": [
+        "James Cameron"
+      ],
+      "Writers": [
+        "James Cameron",
+        "Gale Anne Hurd",
+        "William Wisher"
+      ],
+      "Actors": [
+        "Arnold Schwarzenegger",
+        "Linda Hamilton",
+        "Michael Biehn"
+      ],
+      "Plot": "Sent back from a dystopian 2029--where the cold machines have conquered the entire world--to 1984 Los Angeles, the indestructible cyborg-assassin known as the \"Terminator\" commences his deadly mission to kill humankind's most important woman: the unsuspecting Sarah Connor. However, from the same war-torn post-apocalyptic future comes a battle-scarred defender--Kyle Reese, a brave soldier of the human Resistance Army--bent on stopping the cybernetic killer from eliminating the world's last hope. But, the Terminator has no feelings, he doesn't sleep, and above all, he won't stop until he carries out his grim task. Does our future lie in our past?",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmE0YzIxM2QtMGNlMi00MjRmLWE3MWMtOWQzMGVjMmU0YTFmXkEyXkFqcGc@._V1_SX300.jpg",
+      "Metascore": 84,
+      "imdbRating": 8.1
+    },
+    "tt0098321": {
+      "imdbID": "tt0098321",
+      "Title": "Terminator II",
+      "Released": "22 Aug 1990",
+      "Runtime": 90,
+      "Genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "Directors": [
+        "Bruno Mattei"
+      ],
+      "Writers": [
+        "Rossella Drudi",
+        "Claudio Fragasso"
+      ],
+      "Actors": [
+        "Christopher Ahrens",
+        "Haven Tyler",
+        "Geretta Geretta"
+      ],
+      "Plot": "In a polluted future Venice researchers work to improve the situation. One day, unknown forces start killing them. A team of soldiers and a couple of civilians is sent to investigate. Soon, they encounter strange murderous creatures.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDA4ZmQ5NDUtODg4Ni00YWVmLWJlODMtNGJiYTA2YTVlMjM1XkEyXkFqcGc@._V1_SX300.jpg",
+      "Metascore": 0,
+      "imdbRating": 4.3
+    },
+    "tt1663662": {
+      "imdbID": "tt1663662",
+      "Title": "Pacific Rim",
+      "Released": "12 Jul 2013",
+      "Runtime": 131,
+      "Genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "Directors": [
+        "Guillermo del Toro"
+      ],
+      "Writers": [
+        "Travis Beacham",
+        "Guillermo del Toro"
+      ],
+      "Actors": [
+        "Idris Elba",
+        "Charlie Hunnam",
+        "Rinko Kikuchi"
+      ],
+      "Plot": "When monstrous creatures, known as Kaiju, started rising from the sea, a war began that would take millions of lives and consume humanity's resources for years on end. To combat the giant Kaiju, a special type of weapon was devised: massive robots, called Jaegers, which are controlled simultaneously by two pilots whose minds are locked in a neural bridge. But even the Jaegers are proving nearly defenseless in the face of the relentless Kaiju. On the verge of defeat, the forces defending mankind have no choice but to turn to two unlikely heroes - a washed up former pilot (Charlie Hunnam) and an untested trainee (Rinko Kikuchi) - who are teamed to drive a legendary but seemingly obsolete Jaeger from the past. Together, they stand as mankind's last hope against the mounting apocalypse.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY3MTI5NjQ4Nl5BMl5BanBnXkFtZTcwOTU1OTU0OQ@@._V1_SX300.jpg",
+      "Metascore": 65,
+      "imdbRating": 6.9
+    },
+    "tt1312221": {
+      "imdbID": "tt1312221",
+      "Title": "Frankenstein",
+      "Released": "07 Nov 2025",
+      "Runtime": 149,
+      "Genres": [
+        "Drama",
+        "Fantasy",
+        "Horror"
+      ],
+      "Directors": [
+        "Guillermo del Toro"
+      ],
+      "Writers": [
+        "Guillermo del Toro",
+        "Mary Shelley"
+      ],
+      "Actors": [
+        "Oscar Isaac",
+        "Jacob Elordi",
+        "Christoph Waltz"
+      ],
+      "Plot": "Oscar-winning director Guillermo del Toro adapts Mary Shelley's classic tale of Victor Frankenstein, a brilliant but egotistical scientist who brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzYzNDYxMTQtMTU4OS00MTdlLThhMTQtZjI4NGJmMTZmNmRiXkEyXkFqcGc@._V1_QL75_UX380_CR0,0,380,562_.jpg",
+      "Metascore": 78,
+      "imdbRating": 7.4
+    },
+    "tt0120616": {
+      "imdbID": "tt0120616",
+      "Title": "The Mummy",
+      "Released": "07 May 1999",
+      "Runtime": 124,
+      "Genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+      ],
+      "Directors": [
+        "Stephen Sommers"
+      ],
+      "Writers": [
+        "Stephen Sommers",
+        "Lloyd Fonvielle",
+        "Kevin Jarre"
+      ],
+      "Actors": [
+        "Brendan Fraser",
+        "Rachel Weisz",
+        "John Hannah"
+      ],
+      "Plot": "An English librarian called Evelyn Carnahan becomes interested in starting an archaeological dig at the ancient city of Hamunaptra. She gains the help of Rick O'Connell, after saving him from his death. What Evelyn, her brother Jonathan and Rick are unaware of is that another group of explorers are interested in the same dig. Unfortunately for everyone, this group ends up unleashing a curse which been laid on the dead High Priest Imhotep. Now 'The Mummy' is awake and it's going to take a lot more than guns to send him back to where he came from.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY4YWE0OGMtNjU0Yi00YzIwLTk3NTktM2ZiYWQwNjM4MmMxXkEyXkFqcGc@._V1_SX300.jpg",
+      "Metascore": 48,
+      "imdbRating": 7.1
+    },
+    "tt0099487": {
+      "imdbID": "tt0099487",
+      "Title": "Edward Scissorhands",
+      "Released": "14 Dec 1990",
+      "Runtime": 105,
+      "Genres": [
+        "Drama",
+        "Fantasy",
+        "Romance"
+      ],
+      "Directors": [
+        "Tim Burton"
+      ],
+      "Writers": [
+        "Tim Burton",
+        "Caroline Thompson"
+      ],
+      "Actors": [
+        "Johnny Depp",
+        "Winona Ryder",
+        "Dianne Wiest"
+      ],
+      "Plot": "In a castle high on top of a hill lives an inventor's greatest creation - Edward, a near-complete person. The creator died before he could finish Edward's hands; instead, he is left with metal scissors for hands. Since then, he has lived alone, until a kind lady called Peg discovers him and welcomes him into her home. At first, everyone welcomes him into the community, but soon things begin to take a change for the worse.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODJhODczYjUtYzdkMy00Yjc4LTllNWMtZTQ3MDZlYWZjYWEzXkEyXkFqcGc@._V1_SX300.jpg",
+      "Metascore": 74,
+      "imdbRating": 7.8
     }
   },
   "jane": {

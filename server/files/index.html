@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="de">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -10,51 +10,57 @@
 
   <body>
     <header>
-      <h1>Movies!</h1>
-      <div id="userGreeting" class="user-greeting"></div>
+      <div>
+        <h1>LiLis favourite Movies</h1>
+        <p id="userGreeting">Bitte melde dich an, um deine Sammlung zu sehen.</p>
+      </div>
+      <div class="controls">
+        <button id="loginButton" type="button">Login</button>
+        <button id="logoutButton" type="button" hidden>Logout</button>
+        <button id="openSearchButton" type="button" hidden>Search &amp; Add</button>
+      </div>
     </header>
-    <nav>
-      <h2>Genres</h2>
-      <ul id="filter"></ul>
-      <h2>Manage</h2>
-      <ul>
-        <li>
-          <button id="addMoviesBtn">Add movies</button>
-        </li>
-        <li>
-          <button id="authBtn">Login</button>
-        </li>
-      </ul>
-    </nav>
-    <main></main>
-    <footer>
-      <ul>
-        <li>&copy; Movies!</li>
-        <li>&#8213;</li>
-        <li>Written by <a href="mailto:jane.doe@example.com">Jane Doe</a></li>
-        <li>&#8213;</li>
-        <li>
-          Visit us at
-          <a href="https://www.hcw.ac.at/" target="_blank">UAS Campus Vienna</a>
-        </li>
-      </ul>
-    </footer>
 
-    <!-- Login Dialog -->
+    <nav>
+      <ul></ul>
+    </nav>
+
+    <main></main>
+
     <dialog id="loginDialog">
       <form id="loginForm">
-        <label for="username">Username:</label>
-        <input type="text" id="username" name="username" required>
-        <label for="password">Password:</label>
-        <input type="password" id="password" name="password" required>
-        <button type="submit">Login</button>
-        <button type="button" id="cancelLogin">Cancel</button>
+        <h2>Login</h2>
+        <label for="username">Username</label>
+        <input id="username" name="username" required />
+
+        <label for="password">Password</label>
+        <input id="password" name="password" type="password" required />
+
+        <div class="dialog-actions">
+          <button type="submit">Login</button>
+          <button type="button" id="cancelLogin">Cancel</button>
+        </div>
+        <p class="error" id="loginError"></p>
       </form>
     </dialog>
 
-    <!-- Task 2.1: Add a search dialog markup. Make sure the ids of the elements 
-     match the ones used in index.js. Your dialog needs a form and submit and cancel
-     buttons. -->
-    
+    <dialog id="searchDialog">
+      <form id="searchForm">
+        <h2>Search Movies</h2>
+        <label for="query">Title</label>
+        <input id="query" name="query" type="search" required autocomplete="off" />
+
+        <div class="dialog-actions">
+          <button type="submit">Search</button>
+          <button type="button" id="cancelSearch">Cancel</button>
+        </div>
+
+        <div id="searchResults"></div>
+      </form>
+    </dialog>
+
+    <footer>
+      <p>&copy; All rights reserved.</p>
+    </footer>
   </body>
 </html>
